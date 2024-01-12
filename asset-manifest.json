@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/testbro/static/css/main.f855e6bc.css",
-    "main.js": "/testbro/static/js/main.3cef177b.js",
+    "main.js": "/testbro/static/js/main.43551184.js",
     "static/js/787.b4b3fdba.chunk.js": "/testbro/static/js/787.b4b3fdba.chunk.js",
     "static/media/logo.svg": "/testbro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/testbro/index.html",
     "main.f855e6bc.css.map": "/testbro/static/css/main.f855e6bc.css.map",
-    "main.3cef177b.js.map": "/testbro/static/js/main.3cef177b.js.map",
+    "main.43551184.js.map": "/testbro/static/js/main.43551184.js.map",
     "787.b4b3fdba.chunk.js.map": "/testbro/static/js/787.b4b3fdba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.3cef177b.js"
+    "static/js/main.43551184.js"
   ]
 }
